@@ -1,2 +1,4 @@
-# Advent_of_Code_2023
-Advent_of_Code_2023
+# Advent_Of_Code_2022
+Participation to the advent of code 2023
+
+Link: https://adventofcode.com/
